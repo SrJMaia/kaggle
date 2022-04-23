@@ -1,2 +1,2 @@
 # kaggle
-kaggle articles. [Profire](https://www.kaggle.com/jhonatanmaia)
+kaggle articles. [Profile](https://www.kaggle.com/jhonatanmaia)
